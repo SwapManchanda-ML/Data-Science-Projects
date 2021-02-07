@@ -7,3 +7,4 @@ At a glance:
 - Visualising and comparing metal consumption rates in 2016 
 - RGB image segmentation
 - Unpublished paper in the use of deep learning for customer lifetime value estimation
+- Trained RL algorithms as found in http://incompleteideas.net/book/the-book.html, to play OpenAI Gym games
