@@ -1,6 +1,6 @@
 # Data-Science-Projects
 
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
+Repository containing portfolio of data science projects completed by me.
 
 At a glance:
 - Exploratory data analysis on stock price data
